@@ -7,7 +7,7 @@
     <LocalDebuggerEnvironment>$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LocalDebuggerCommandArguments>0.raw</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>001.dng</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
     <LocalDebuggerWorkingDirectory>$(ProjectDir)/../data/</LocalDebuggerWorkingDirectory>
   </PropertyGroup>
